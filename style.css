@@ -1,0 +1,86 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.text-centered {
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px; 
+  font-family: "Aharoni";
+   background-color:#3F4739;
+  background-size: 90px;
+}
+body{
+  background-color:#3F4739 ;
+}
+ main, head {
+  width: 500px;
+  margin: auto;
+  border: 3px solid black;
+  background-color:#B57F50;
+}
+.second{
+  font-size: 20px; 
+  font-family: "Aharoni";
+  text-align: center;
+}
+nav{
+  text-align: center;
+  color: black;
+  
+}
+h2,p{
+  text-align: center;
+  padding: 10px 50px 20px;
+  margin: 10px 50px 20px;
+}
+/* tried to compile as much as i could in one */
+p2,ul,li,img {
+  text-align: center;
+   margin: 10px 50px 20px;
+} 
+/* i dont remember what to put for my footer */
+footer{
+  border: black, 1px;
+margin: 20px;
+  padding: 2px 1;
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #3F4739;
+}
+hr{
+  background-color: black;
+  border: 1px black solid;
+  margin: 10px 100px 20px;
+}
+img {
+  text-align: center;
+  border: 10px black solid;
+  
+}
+a{
+  color: black;
+}
+/* not much for style on the link */
+a:hover   { color: #3F4739; }
+a:active  { color:red;  }
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+h2,h3 {
+  font-family:"Aharoni";
+  font-size: 25px;
+}
+.mypicture{
+  display: flex;
+justify-content: center;
+}
+
+
+
+
+
